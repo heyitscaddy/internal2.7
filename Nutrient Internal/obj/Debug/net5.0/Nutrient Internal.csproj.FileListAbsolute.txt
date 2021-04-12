@@ -1,0 +1,16 @@
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\bin\Debug\net5.0\Nutrient Internal.exe
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\bin\Debug\net5.0\Nutrient Internal.deps.json
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\bin\Debug\net5.0\Nutrient Internal.runtimeconfig.json
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\bin\Debug\net5.0\Nutrient Internal.runtimeconfig.dev.json
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\bin\Debug\net5.0\Nutrient Internal.dll
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\bin\Debug\net5.0\ref\Nutrient Internal.dll
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\bin\Debug\net5.0\Nutrient Internal.pdb
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\obj\Debug\net5.0\Nutrient Internal.csprojAssemblyReference.cache
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\obj\Debug\net5.0\Nutrient Internal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\obj\Debug\net5.0\Nutrient Internal.AssemblyInfoInputs.cache
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\obj\Debug\net5.0\Nutrient Internal.AssemblyInfo.cs
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\obj\Debug\net5.0\Nutrient Internal.csproj.CoreCompileInputs.cache
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\obj\Debug\net5.0\Nutrient Internal.dll
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\obj\Debug\net5.0\ref\Nutrient Internal.dll
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\obj\Debug\net5.0\Nutrient Internal.pdb
+C:\Users\m.a.caddle\Desktop\Nutrient Internal\obj\Debug\net5.0\Nutrient Internal.genruntimeconfig.cache
